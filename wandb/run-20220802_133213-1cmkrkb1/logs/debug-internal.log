@@ -211,3 +211,99 @@
 2022-08-02 13:33:20,892 DEBUG   SenderThread:57940 [sender.py:send():232] send: history
 2022-08-02 13:33:20,892 DEBUG   SenderThread:57940 [sender.py:send():232] send: summary
 2022-08-02 13:33:20,892 INFO    SenderThread:57940 [sender.py:_save_file():948] saving file wandb-summary.json with policy end
+2022-08-02 13:33:21,480 INFO    Thread-7  :57940 [dir_watcher.py:_on_file_modified():257] file/dir modified: /home/baris/Documents/personal/filler/wandb/run-20220802_133213-1cmkrkb1/files/wandb-summary.json
+2022-08-02 13:33:22,766 DEBUG   HandlerThread:57940 [handler.py:handle_request():141] handle_request: partial_history
+2022-08-02 13:33:22,766 DEBUG   SenderThread:57940 [sender.py:send():232] send: history
+2022-08-02 13:33:22,766 DEBUG   SenderThread:57940 [sender.py:send():232] send: summary
+2022-08-02 13:33:22,767 INFO    SenderThread:57940 [sender.py:_save_file():948] saving file wandb-summary.json with policy end
+2022-08-02 13:33:23,480 INFO    Thread-7  :57940 [dir_watcher.py:_on_file_modified():257] file/dir modified: /home/baris/Documents/personal/filler/wandb/run-20220802_133213-1cmkrkb1/files/wandb-summary.json
+2022-08-02 13:33:24,735 DEBUG   HandlerThread:57940 [handler.py:handle_request():141] handle_request: partial_history
+2022-08-02 13:33:24,735 DEBUG   SenderThread:57940 [sender.py:send():232] send: history
+2022-08-02 13:33:24,735 DEBUG   SenderThread:57940 [sender.py:send():232] send: summary
+2022-08-02 13:33:24,737 INFO    SenderThread:57940 [sender.py:_save_file():948] saving file wandb-summary.json with policy end
+2022-08-02 13:33:25,481 INFO    Thread-7  :57940 [dir_watcher.py:_on_file_modified():257] file/dir modified: /home/baris/Documents/personal/filler/wandb/run-20220802_133213-1cmkrkb1/files/wandb-summary.json
+2022-08-02 13:33:26,632 DEBUG   HandlerThread:57940 [handler.py:handle_request():141] handle_request: partial_history
+2022-08-02 13:33:26,633 DEBUG   SenderThread:57940 [sender.py:send():232] send: history
+2022-08-02 13:33:26,633 DEBUG   SenderThread:57940 [sender.py:send():232] send: summary
+2022-08-02 13:33:26,633 INFO    SenderThread:57940 [sender.py:_save_file():948] saving file wandb-summary.json with policy end
+2022-08-02 13:33:27,481 INFO    Thread-7  :57940 [dir_watcher.py:_on_file_modified():257] file/dir modified: /home/baris/Documents/personal/filler/wandb/run-20220802_133213-1cmkrkb1/files/wandb-summary.json
+2022-08-02 13:33:28,505 DEBUG   HandlerThread:57940 [handler.py:handle_request():141] handle_request: partial_history
+2022-08-02 13:33:28,505 DEBUG   SenderThread:57940 [sender.py:send():232] send: history
+2022-08-02 13:33:28,505 DEBUG   SenderThread:57940 [sender.py:send():232] send: summary
+2022-08-02 13:33:28,506 INFO    SenderThread:57940 [sender.py:_save_file():948] saving file wandb-summary.json with policy end
+2022-08-02 13:33:29,482 INFO    Thread-7  :57940 [dir_watcher.py:_on_file_modified():257] file/dir modified: /home/baris/Documents/personal/filler/wandb/run-20220802_133213-1cmkrkb1/files/wandb-summary.json
+2022-08-02 13:33:30,401 DEBUG   HandlerThread:57940 [handler.py:handle_request():141] handle_request: stop_status
+2022-08-02 13:33:30,401 DEBUG   SenderThread:57940 [sender.py:send_request():246] send_request: stop_status
+2022-08-02 13:33:30,512 DEBUG   HandlerThread:57940 [handler.py:handle_request():141] handle_request: partial_history
+2022-08-02 13:33:30,541 DEBUG   SenderThread:57940 [sender.py:send():232] send: history
+2022-08-02 13:33:30,542 DEBUG   SenderThread:57940 [sender.py:send():232] send: summary
+2022-08-02 13:33:30,542 INFO    SenderThread:57940 [sender.py:_save_file():948] saving file wandb-summary.json with policy end
+2022-08-02 13:33:31,482 INFO    Thread-7  :57940 [dir_watcher.py:_on_file_modified():257] file/dir modified: /home/baris/Documents/personal/filler/wandb/run-20220802_133213-1cmkrkb1/files/wandb-summary.json
+2022-08-02 13:33:32,597 DEBUG   HandlerThread:57940 [handler.py:handle_request():141] handle_request: partial_history
+2022-08-02 13:33:32,597 DEBUG   SenderThread:57940 [sender.py:send():232] send: history
+2022-08-02 13:33:32,597 DEBUG   SenderThread:57940 [sender.py:send():232] send: summary
+2022-08-02 13:33:32,598 INFO    SenderThread:57940 [sender.py:_save_file():948] saving file wandb-summary.json with policy end
+2022-08-02 13:33:33,482 INFO    Thread-7  :57940 [dir_watcher.py:_on_file_modified():257] file/dir modified: /home/baris/Documents/personal/filler/wandb/run-20220802_133213-1cmkrkb1/files/wandb-summary.json
+2022-08-02 13:33:34,449 DEBUG   HandlerThread:57940 [handler.py:handle_request():141] handle_request: partial_history
+2022-08-02 13:33:34,449 DEBUG   SenderThread:57940 [sender.py:send():232] send: history
+2022-08-02 13:33:34,449 DEBUG   SenderThread:57940 [sender.py:send():232] send: summary
+2022-08-02 13:33:34,450 INFO    SenderThread:57940 [sender.py:_save_file():948] saving file wandb-summary.json with policy end
+2022-08-02 13:33:34,483 INFO    Thread-7  :57940 [dir_watcher.py:_on_file_modified():257] file/dir modified: /home/baris/Documents/personal/filler/wandb/run-20220802_133213-1cmkrkb1/files/wandb-summary.json
+2022-08-02 13:33:36,305 DEBUG   HandlerThread:57940 [handler.py:handle_request():141] handle_request: partial_history
+2022-08-02 13:33:36,305 DEBUG   SenderThread:57940 [sender.py:send():232] send: history
+2022-08-02 13:33:36,305 DEBUG   SenderThread:57940 [sender.py:send():232] send: summary
+2022-08-02 13:33:36,306 INFO    SenderThread:57940 [sender.py:_save_file():948] saving file wandb-summary.json with policy end
+2022-08-02 13:33:36,483 INFO    Thread-7  :57940 [dir_watcher.py:_on_file_modified():257] file/dir modified: /home/baris/Documents/personal/filler/wandb/run-20220802_133213-1cmkrkb1/files/wandb-summary.json
+2022-08-02 13:33:38,179 DEBUG   HandlerThread:57940 [handler.py:handle_request():141] handle_request: partial_history
+2022-08-02 13:33:38,179 DEBUG   SenderThread:57940 [sender.py:send():232] send: history
+2022-08-02 13:33:38,179 DEBUG   SenderThread:57940 [sender.py:send():232] send: summary
+2022-08-02 13:33:38,179 INFO    SenderThread:57940 [sender.py:_save_file():948] saving file wandb-summary.json with policy end
+2022-08-02 13:33:38,483 INFO    Thread-7  :57940 [dir_watcher.py:_on_file_modified():257] file/dir modified: /home/baris/Documents/personal/filler/wandb/run-20220802_133213-1cmkrkb1/files/wandb-summary.json
+2022-08-02 13:33:40,046 DEBUG   HandlerThread:57940 [handler.py:handle_request():141] handle_request: partial_history
+2022-08-02 13:33:40,046 DEBUG   SenderThread:57940 [sender.py:send():232] send: history
+2022-08-02 13:33:40,046 DEBUG   SenderThread:57940 [sender.py:send():232] send: summary
+2022-08-02 13:33:40,047 INFO    SenderThread:57940 [sender.py:_save_file():948] saving file wandb-summary.json with policy end
+2022-08-02 13:33:40,484 INFO    Thread-7  :57940 [dir_watcher.py:_on_file_modified():257] file/dir modified: /home/baris/Documents/personal/filler/wandb/run-20220802_133213-1cmkrkb1/files/wandb-summary.json
+2022-08-02 13:33:41,954 DEBUG   HandlerThread:57940 [handler.py:handle_request():141] handle_request: partial_history
+2022-08-02 13:33:41,954 DEBUG   SenderThread:57940 [sender.py:send():232] send: history
+2022-08-02 13:33:41,954 DEBUG   SenderThread:57940 [sender.py:send():232] send: summary
+2022-08-02 13:33:41,955 INFO    SenderThread:57940 [sender.py:_save_file():948] saving file wandb-summary.json with policy end
+2022-08-02 13:33:42,484 INFO    Thread-7  :57940 [dir_watcher.py:_on_file_modified():257] file/dir modified: /home/baris/Documents/personal/filler/wandb/run-20220802_133213-1cmkrkb1/files/wandb-summary.json
+2022-08-02 13:33:43,159 DEBUG   SenderThread:57940 [sender.py:send():232] send: stats
+2022-08-02 13:33:43,828 DEBUG   HandlerThread:57940 [handler.py:handle_request():141] handle_request: partial_history
+2022-08-02 13:33:43,828 DEBUG   SenderThread:57940 [sender.py:send():232] send: history
+2022-08-02 13:33:43,828 DEBUG   SenderThread:57940 [sender.py:send():232] send: summary
+2022-08-02 13:33:43,828 INFO    SenderThread:57940 [sender.py:_save_file():948] saving file wandb-summary.json with policy end
+2022-08-02 13:33:44,485 INFO    Thread-7  :57940 [dir_watcher.py:_on_file_modified():257] file/dir modified: /home/baris/Documents/personal/filler/wandb/run-20220802_133213-1cmkrkb1/files/wandb-summary.json
+2022-08-02 13:33:45,543 DEBUG   HandlerThread:57940 [handler.py:handle_request():141] handle_request: stop_status
+2022-08-02 13:33:45,543 DEBUG   SenderThread:57940 [sender.py:send_request():246] send_request: stop_status
+2022-08-02 13:33:45,714 DEBUG   HandlerThread:57940 [handler.py:handle_request():141] handle_request: partial_history
+2022-08-02 13:33:45,715 DEBUG   SenderThread:57940 [sender.py:send():232] send: history
+2022-08-02 13:33:45,715 DEBUG   SenderThread:57940 [sender.py:send():232] send: summary
+2022-08-02 13:33:45,715 INFO    SenderThread:57940 [sender.py:_save_file():948] saving file wandb-summary.json with policy end
+2022-08-02 13:33:46,485 INFO    Thread-7  :57940 [dir_watcher.py:_on_file_modified():257] file/dir modified: /home/baris/Documents/personal/filler/wandb/run-20220802_133213-1cmkrkb1/files/wandb-summary.json
+2022-08-02 13:33:47,575 DEBUG   HandlerThread:57940 [handler.py:handle_request():141] handle_request: partial_history
+2022-08-02 13:33:47,575 DEBUG   SenderThread:57940 [sender.py:send():232] send: history
+2022-08-02 13:33:47,575 DEBUG   SenderThread:57940 [sender.py:send():232] send: summary
+2022-08-02 13:33:47,576 INFO    SenderThread:57940 [sender.py:_save_file():948] saving file wandb-summary.json with policy end
+2022-08-02 13:33:48,485 INFO    Thread-7  :57940 [dir_watcher.py:_on_file_modified():257] file/dir modified: /home/baris/Documents/personal/filler/wandb/run-20220802_133213-1cmkrkb1/files/wandb-summary.json
+2022-08-02 13:33:49,580 DEBUG   HandlerThread:57940 [handler.py:handle_request():141] handle_request: partial_history
+2022-08-02 13:33:49,581 DEBUG   SenderThread:57940 [sender.py:send():232] send: history
+2022-08-02 13:33:49,581 DEBUG   SenderThread:57940 [sender.py:send():232] send: summary
+2022-08-02 13:33:49,581 INFO    SenderThread:57940 [sender.py:_save_file():948] saving file wandb-summary.json with policy end
+2022-08-02 13:33:50,486 INFO    Thread-7  :57940 [dir_watcher.py:_on_file_modified():257] file/dir modified: /home/baris/Documents/personal/filler/wandb/run-20220802_133213-1cmkrkb1/files/wandb-summary.json
+2022-08-02 13:33:51,533 DEBUG   HandlerThread:57940 [handler.py:handle_request():141] handle_request: partial_history
+2022-08-02 13:33:51,534 DEBUG   SenderThread:57940 [sender.py:send():232] send: history
+2022-08-02 13:33:51,534 DEBUG   SenderThread:57940 [sender.py:send():232] send: summary
+2022-08-02 13:33:51,535 INFO    SenderThread:57940 [sender.py:_save_file():948] saving file wandb-summary.json with policy end
+2022-08-02 13:33:51,896 DEBUG   HandlerThread:57940 [handler.py:handle_request():141] handle_request: partial_history
+2022-08-02 13:33:51,897 DEBUG   SenderThread:57940 [sender.py:send():232] send: files
+2022-08-02 13:33:51,897 INFO    SenderThread:57940 [sender.py:_save_file():948] saving file media/images/image_50_cc6aa77686ae47f5acac.png with policy now
+2022-08-02 13:33:51,897 DEBUG   SenderThread:57940 [sender.py:send():232] send: history
+2022-08-02 13:33:51,897 DEBUG   SenderThread:57940 [sender.py:send():232] send: summary
+2022-08-02 13:33:51,898 INFO    SenderThread:57940 [sender.py:_save_file():948] saving file wandb-summary.json with policy end
+2022-08-02 13:33:52,486 INFO    Thread-7  :57940 [dir_watcher.py:_on_file_modified():257] file/dir modified: /home/baris/Documents/personal/filler/wandb/run-20220802_133213-1cmkrkb1/files/wandb-summary.json
+2022-08-02 13:33:52,487 INFO    Thread-7  :57940 [dir_watcher.py:_on_file_created():244] file/dir created: /home/baris/Documents/personal/filler/wandb/run-20220802_133213-1cmkrkb1/files/media/images/image_50_cc6aa77686ae47f5acac.png
+2022-08-02 13:33:52,487 INFO    Thread-7  :57940 [dir_watcher.py:_on_file_created():244] file/dir created: /home/baris/Documents/personal/filler/wandb/run-20220802_133213-1cmkrkb1/files/media
+2022-08-02 13:33:52,487 INFO    Thread-7  :57940 [dir_watcher.py:_on_file_created():244] file/dir created: /home/baris/Documents/personal/filler/wandb/run-20220802_133213-1cmkrkb1/files/media/images
+2022-08-02 13:33:52,604 INFO    Thread-13 :57940 [upload_job.py:push():132] Uploaded file /tmp/tmpzrafn8fjwandb/etyijpuk-media/images/image_50_cc6aa77686ae47f5acac.png

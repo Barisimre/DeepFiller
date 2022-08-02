@@ -1,1 +1,1 @@
-{"epoch": 0, "gen_loss": 0.5641033053398132, "clas_loss": 0.4661102890968323, "_timestamp": 1659440000, "_runtime": 67, "_step": 33}
+{"epoch": 0, "gen_loss": 0.44629567861557007, "clas_loss": 0.4394603669643402, "_timestamp": 1659440031, "_runtime": 98, "_step": 50, "image": {"_type": "image-file", "sha256": "cc6aa77686ae47f5acacc44a742810b549b0a0827a4b827cd6ea53f575fe65a5", "size": 309364, "path": "media/images/image_50_cc6aa77686ae47f5acac.png", "format": "png", "width": 768, "height": 256}}
