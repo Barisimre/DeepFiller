@@ -1,0 +1,18 @@
+{
+    "os": "Linux-5.15.32-1-MANJARO-x86_64-with-glibc2.35",
+    "python": "3.10.4",
+    "heartbeatAt": "2022-08-02T11:30:07.354842",
+    "startedAt": "2022-08-02T11:30:06.341705",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 2080",
+    "gpu_count": 1,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "main.ipynb",
+    "root": "/home/baris/Documents/personal/filler",
+    "host": "baris-desktop",
+    "username": "baris",
+    "executable": "/usr/bin/python"
+}
